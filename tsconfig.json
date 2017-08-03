@@ -11,9 +11,15 @@
     "typeRoots": [
       "node_modules/@types"
     ],
+    "files": [
+        "typings/index.d.ts"
+    ],
     "lib": [
       "es2016",
       "dom"
+    ],
+    "types": [
+      "firebase"
     ]
   }
 }

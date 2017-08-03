@@ -1,6 +1,6 @@
 # TestAlkanza
 
-This project was generated for a skill test.
+This project was generated for a skills test.
 
 ## Development server
 
